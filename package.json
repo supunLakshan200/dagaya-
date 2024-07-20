@@ -1,12 +1,12 @@
 {
-"name": "dagaya",
+"name": "supun200",
 "version": "2.1.2",
-"description": "dagaya has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "supun200 has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name dagaya",
-"stop": "pm2 stop dagaya",
-"restart": "pm2 restart dagaya"
+"start": "pm2 start start.js --deep-monitoring --attach --name supun200",
+"stop": "pm2 stop supun200",
+"restart": "pm2 restart supun200"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/PMD-API-UPDATE/Baileys-6.6.0.git",
